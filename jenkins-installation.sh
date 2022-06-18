@@ -7,7 +7,7 @@
 
 # Installation java
 
-yum install java-1.8.0-openjdk-devel
+yum install java-1.8.0-openjdk-devel -y
 
 # Enable the jenkins repository
 
